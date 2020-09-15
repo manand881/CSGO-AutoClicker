@@ -12,7 +12,7 @@ pip3 install mouse
 pip3 install PyAutoGUI
 ```
 
-If you're a Windows user, you can choose to run the requirements.bat file to auto install the dependencies for you.
+If you're a Windows user, you can choose to run the [requirements.bat](https://github.com/manand881/CSGO-AutoClicker/blob/master/requirements.bat) file to auto install the dependencies for you.
 
 ## Usage
 
