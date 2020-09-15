@@ -7,7 +7,7 @@ This small project of mine is just for giggles. I admit that I'm bad at playing 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required packages.
 
 ```bash
-pip3 install keyboard
+pip3 install mouse
 pip3 install PyAutoGUI
 ```
 

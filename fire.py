@@ -1,5 +1,5 @@
 import pyautogui                                    # importing pyautogui to automate click task
-import keyboard                                     # importing keyboard to set a key press listener
+import mouse                                        # importing mouse to set a key press listener
 import time                                         # importing time to use sleep function
 from intro import csgo                              # importing ascii text
 
@@ -10,7 +10,7 @@ while True:                                         # starting an infinite loop 
     
     try:                                            # using try so that the program will not end abruptly in the event of an error
         
-        if keyboard.is_pressed('`'):                # if key '``' is pressed 
+        if mouse.is_pressed(button='middle'):       # if scroll wheel or middle button is pressed 
             
             keypress_counter+=1
             print(keypress_counter,"total keypresses recieved") # keeping track of input key strokes and printing it
@@ -27,4 +27,4 @@ while True:                                         # starting an infinite loop 
     
     except Exception as e: print(e)                 # print error if something wrong happens 
     
-    time.sleep(0.5)                                 # putting a hold on the while loop so it does not take up too much system resources
+    time.sleep(0.3)                                 # putting a hold on the while loop so it does not take up too much system resources
