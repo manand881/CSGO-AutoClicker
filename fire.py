@@ -1,6 +1,7 @@
 import pyautogui                                    # importing pyautogui to automate click task
 import keyboard                                     # importing keyboard to set a key press listener
 import time                                         # importing time to use sleep function
+from intro import csgo                              # importing ascii text
 
 autoclick_counter=0
 keypress_counter=0
