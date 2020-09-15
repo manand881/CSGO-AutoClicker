@@ -16,7 +16,7 @@ If you're a Windows user, you can choose to run the [requirements.bat](https://g
 
 ## Usage
 
-Warning! Using this in games is cheating. You are engaging in unfair practices by using this in games and you may get banned for the same thing. Use with caution
+Warning! Using this in games is cheating. You are engaging in unfair practices by using this in games and you may get banned for the same thing. Use with caution.
 
 
 ## Contributing
