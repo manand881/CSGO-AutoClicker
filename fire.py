@@ -12,16 +12,16 @@ while True:                                         # starting an infinite loop 
         if keyboard.is_pressed('`'):                # if key '``' is pressed 
             
             keypress_counter+=1
-            print(keypress_counter)                 # keeping track of input key strokes and printing it
+            print(keypress_counter,"total keypresses recieved") # keeping track of input key strokes and printing it
             
             for x in range(10):                     # setting a sub loop to run 10 times and fire once per iteration 
                 
                 autoclick_counter+=1                # keeping track of iterated auto clicks
                 pyautogui.click()                   # automating mouse click at current mouse position
-                time.sleep(0.09)                    # sleeping for sometime so the autocheat does not feel like something fishy is happening
+                time.sleep(0.05)                    # sleeping for sometime so the autocheat does not feel like something fishy is happening
                 print("clicked")                    
             
-            print(autoclick_counter," successful clicks")
+            print(autoclick_counter,"successful clicks this round")
             autoclick_counter=0                     # reset click counter
     
     except Exception as e: print(e)                 # print error if something wrong happens 

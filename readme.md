@@ -17,6 +17,9 @@ If you're a Windows user, you can choose to run the [requirements.bat](https://g
 
 Warning! Using this in games is cheating. You are engaging in unfair practices by using this in games and you may get banned for the same thing. Use with caution.
 
+## Testing
+
+use [this website](https://kohiclicktest.org/onlinecounter.html) to test the autoclicker
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
