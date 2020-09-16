@@ -4,7 +4,8 @@ This small project of mine is just for giggles. I admit that I'm bad at playing 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required packages.
+* Install [python](https://www.python.org/downloads/) or follow a suitable tutorial if you're having problems.
+* Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required packages.
 
 ```bash
 pip3 install mouse
@@ -16,6 +17,10 @@ If you're a Windows user, you can choose to run the [requirements.bat](https://g
 ## Usage
 
 Warning! Using this in games is cheating. You are engaging in unfair practices by using this in games and you may get banned for the same thing. Use with caution.
+
+* Download this repository or use this [link](https://github.com/manand881/CSGO-AutoClicker/archive/master.zip) to do the same.
+* run fire.py
+* open CSGO and click the middle mouse button or the mouse wheel to shoot 5 rounds in a rapid fire. this works well with guns such as dual berettas 
 
 ## Testing
 
